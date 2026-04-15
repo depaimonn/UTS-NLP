@@ -14,7 +14,10 @@ Sentimen dibagi menjadi dua kelas:
 - `mobile_legends_reviews.csv` : Dataset mentah berisi ulasan pengguna.
 
 ## ⚙️ Persyaratan (Requirements)
-Proyek ini dibuat menggunakan Python 3.8+ dan beberapa library standar. Untuk menjalankan proyek ini, pastikan Anda telah menginstal library berikut:
+Proyek ini dibuat menggunakan Python 3.8+ dan beberapa library standar. Untuk menjalankan proyek ini, pastikan telah menginstal library berikut:
 
 ```bash
 pip install pandas numpy scikit-learn nltk gensim matplotlib wordcloud
+
+link github
+https://colab.research.google.com/drive/1vd3eFV-SW4EfK4oTGXhOf0lBQBHjoj6s?usp=sharing
