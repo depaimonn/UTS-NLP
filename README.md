@@ -21,3 +21,6 @@ pip install pandas numpy scikit-learn nltk gensim matplotlib wordcloud
 
 link github
 https://colab.research.google.com/drive/1vd3eFV-SW4EfK4oTGXhOf0lBQBHjoj6s?usp=sharing
+
+link dataset dikarenakan dataset ukurannya besar
+https://www.kaggle.com/datasets/abiyyurasyiq/mobile-legends-google-play-reviews
